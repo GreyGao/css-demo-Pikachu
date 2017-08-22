@@ -6,8 +6,7 @@ https://greygao.github.io/hello-world/Prc36-1-Pikachu/Prc36-1.html
 
 ## 预览效果
 
-![https://i.loli.net/2017/08/22/599be1d65332b.png
-](Pikachu)
+![Pikachu](https://i.loli.net/2017/08/22/599be1d65332b.png)
 
 ## 说明
 
