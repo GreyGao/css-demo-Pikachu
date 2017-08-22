@@ -4,6 +4,11 @@
 
 https://greygao.github.io/hello-world/Prc36-1-Pikachu/Prc36-1.html
 
+## 预览效果
+
+![https://i.loli.net/2017/08/22/599be1d65332b.png
+](Pikachu)
+
 ## 说明
 
 使用flex布局，纯CSS生成一只皮卡丘。
